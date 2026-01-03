@@ -1,0 +1,48 @@
+.manu{
+    background-color: #f2ede1;
+}
+.black_box{
+    width:100%;
+    height:auto;
+    float: left;
+   
+}
+.s2{
+    width:100%;
+    height:auto;
+    float: left;
+
+}
+
+.img_f{
+    width:100%;
+    height:auto;
+    float: left;
+}
+
+.text_box{
+
+    width:100%;
+    height:auto;
+    float:left;
+
+}
+.photos{
+    width: 100%;
+    height:auto;
+    float:left;
+}
+
+.black_b{
+
+    width:100%;
+    height:auto;
+    float: left;
+}
+.img1{
+    width:100%;
+    height:200px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-image:url(https://bergenharbourhotel.no/wp-content/uploads/2024/01/Superior-King-Room-3-1024x688-1.jpg);
+}

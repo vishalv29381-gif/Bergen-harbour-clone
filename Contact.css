@@ -1,0 +1,29 @@
+.colo_em{
+    color:#ffcc4d !important;
+}
+.c_form{
+    width:100%;
+    height:auto;
+    float: left;
+}
+.box{
+    width:220px;
+    height:60px;
+    float: left;
+    display: inline-flex;
+    background-color:white;
+}
+.tt_1{
+    color: green;
+}
+.text_bt{
+ margin-left: -1100px;
+ margin-top:80px;
+}
+.my_con{
+
+    width:100%;
+    height:auto;
+    float: left;
+    
+}
